@@ -1,6 +1,6 @@
 
-Big shoutouts to Ashley for making the lions share of the stage/menu assets, to Mawwwk for all of 
-the troubleshooting assistance in the production of this build, to Ricky for recording the announcer lines,
+Big shoutouts to Ashley for making the lions share of the stage/menu assets, to Mawwwk for an immeasurable of 
+troubleshooting assistance in the production of this build, to Ricky for recording the announcer lines,
 and to Sabrina for giving us a reason to make a build in the first place.
 
 Thanks to all of my friends who gave feedback along the way, and to all of my fellow RPMers for playing 
@@ -17,6 +17,11 @@ SFX
 Announcer Voicelines performed and recorded by Ricky "Yuunia", written by rye evil lesbian and Ricky "Yuunia",
 and cut/inserted by rye evil lesbian
 
+################
+CODES
+################
+
+Codeset obtained from Tusselopolis build by ilikepizza107
 
 ################
 PSA
@@ -35,12 +40,14 @@ PSA edits for Crona Marth & Artemis Marth by SSK and KingJigglypuff, ilikepizza1
 PSA edits for GooSluj ZSS SFX by ilikepizza107
  - PSA Edited (All SFX Tab): Sub Actions A, B, C, E, F, 10, 11, 12, 2A, 30, 31, 32, 33, 36, 43, 44, 45, 48, 4E, 53, 54, 55, 63, 64, 65, 66, 67, 68, 69, 6A, 6B, AF, B0, B1, B2, B8, B9, BA, BB, BE, BF, C0, C1, C3, D7, D8, D9, DC, DD, DE, E6, E7, E8, E9, FC, FD, 151, 152, 153, 154, 155, 156, 157, 158, 159, 15A, 15C, 1C2, 1C3, 1C6, 1E2, 1E5, 1E6
 
+PSA edits for evil lesbian zelda by rye
 ################
 SKINS
 ################
 
 MARIO
 07 - LoyaL Mario by ilikepizza107
+AltZ - Doctor Doom Mario by Jetfantastic
 
 DONKEY KONG
 
@@ -51,6 +58,8 @@ LINK
 SAMUS
 40 - GooSluj Samus by ilikepizza107
 45 - Brawl Fake Samus by SJS [https://gamebanana.com/mods/247126]
+AltR + Z - EVA Samuses by jerichoakemi
+
 
 YOSHI
 40 - Shiny Zubat Yoshi by SJS
@@ -81,12 +90,15 @@ CAPTAIN FALCON
 
 NESS
 30 - Not Chris Ness by ilikepizza107
+31 - Jotaro Ness by [will fill in when brawlvault is back up]
 
 BOWSER
 25 - S0UTHV13W Bowser by influenza
+26 - Scion Bowser by [credit needed]
 
 PEACH
 09 - Cyphr Peach by ilikepizza107
+34 - Bowsette by [will fill in when brawlvault is back up]
 
 ZELDA
 30 - Tuck Zelda by Tuck, ilikepizza107, using Hulkalex's Skyward Sword Zelda model [http://www.mediafire.com/file/1b0t0ned2djzmg2/Zelda+Skyloft.zip/file]
@@ -108,6 +120,7 @@ MR. GAME & WATCH
 17 - Rise GnW
 
 FALCO
+09 - Badman Falco by Jetfantastic
 
 GANONDORF
 26 - Che Ganondorf by DHS7
@@ -124,6 +137,8 @@ PIT
 42 - Star Green Pit by SJS, Star, ilikepizza107
 
 ZERO SUIT SAMUS
+06 - Asuka ZSS by [need brawlvault]
+07 - SJTech ZSS by [brawlvault]
 40 - GooSluj ZSS by ilikepizza107
 45 - RosiYY ZSS by ilikepizza107
 
@@ -137,12 +152,15 @@ LUCAS
 42 - Star Green Lucas by Star, SJS
 45 - Blue Pajama Lucas by Toti
 46 - Claus Pajama Lucas by Toti
+47 - Shadowhawke Lucas by [waiting on credit]
 
 DIDDY KONG
 25 - SipMastah Diddy Kong by GKO
 30 - DLA Diddy Kong by Wyld
+31 - Sneez robotic Diddy Kong by [credit needed]
 
 MEWTWO
+06 - Shinji iCarly Mewtwo by [waiting on credit], with icons by rye evil lesbian
 
 CHARIZARD
 
@@ -151,11 +169,15 @@ SQUIRTLE
 
 IVYSAUR
 08 - Maofever Ivy by Maofever
+AltR - Lucasaur by [brawlvault]
+AltZ - Cow Ivysaur by [brawlvault]
+
 
 DEDEDE
 11 - Apollo Ali D3 by FingerStripes
 12 - Ripple D3 by ???
 15 - Robo D3 by ShadowLuigi~NG~ [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=207980 (Download link dead)]
+AltZ- Big Chungus D3 by ???
 
 LUCARIO
 25 - influenza Lucario by influenza
@@ -163,7 +185,9 @@ LUCARIO
 IKE
 24 - influenza Ike by influenza
 25 - Gunther Ike by ilikepizza107
+26 - Purple Rose Ike by [credit needed]
 34 - Blitz Ike by erg
+
 
 R.O.B.
 07 - Comb ROB by Wyld
@@ -214,12 +238,12 @@ POKEMON STADIUM 2
 Base - Lake Shore Drive by rye evil lesbian and ashley influenza, with additional assets from ilikepizza107
 
 SMASHVILLE
-Base - Gardenville by Red98, with updates by ilikepizza107
+L Alt - Gardenville by Red98, with updates by ilikepizza107
 
 ################
 MENUS
 ################
 
-New "Ready To Fight!" Model by ashley influenza
+New "Ready To Fight!", "Game", and all novel fonts made by ashley influenza
 
-CSS + SSS by rye evil lesbian and ashley influenza
+CSS + SSS + Main Menu by rye evil lesbian and ashley influenza
