@@ -90,7 +90,7 @@ CAPTAIN FALCON
 
 NESS
 30 - Not Chris Ness by ilikepizza107
-31 - Jotaro Ness by [will fill in when brawlvault is back up]
+31 - Jotaro Ness by unknown
 
 BOWSER
 25 - S0UTHV13W Bowser by influenza
@@ -98,7 +98,7 @@ BOWSER
 
 PEACH
 09 - Cyphr Peach by ilikepizza107
-34 - Bowsette by [will fill in when brawlvault is back up]
+34 - Bowsette by Ryztiq and StarWaffle
 
 ZELDA
 30 - Tuck Zelda by Tuck, ilikepizza107, using Hulkalex's Skyward Sword Zelda model [http://www.mediafire.com/file/1b0t0ned2djzmg2/Zelda+Skyloft.zip/file]
@@ -137,8 +137,8 @@ PIT
 42 - Star Green Pit by SJS, Star, ilikepizza107
 
 ZERO SUIT SAMUS
-06 - Asuka ZSS by [need brawlvault]
-07 - SJTech ZSS by [brawlvault]
+06 - Asuka ZSS by ChaosZeroX and Vladislek
+07 - SJTech ZSS by unknown
 40 - GooSluj ZSS by ilikepizza107
 45 - RosiYY ZSS by ilikepizza107
 
@@ -169,8 +169,8 @@ SQUIRTLE
 
 IVYSAUR
 08 - Maofever Ivy by Maofever
-AltR - Lucasaur by [brawlvault]
-AltZ - Cow Ivysaur by [brawlvault]
+AltR - Lucasaur by Kidneptune
+AltZ - Cow Ivysaur by PyroPM and Trevula
 
 
 DEDEDE
