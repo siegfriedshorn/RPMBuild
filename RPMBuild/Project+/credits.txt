@@ -54,6 +54,7 @@ DONKEY KONG
 LINK
 10 - Zushi Link by GKO
 27 - Maofever Link by SOULLY
+AltR - Assassin Link by [need brawlvault]
 
 SAMUS
 40 - GooSluj Samus by ilikepizza107
@@ -109,6 +110,7 @@ SHEIK
 30 - RoSheik by jetfantastic [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=213577]
 31 - Evil Lesbian Sheik by Evil Lesbian, CSP by ilikepizza107
 32 - KWAM Sheik by ilikepizza107
+AltR - Sheenk by Kidneptune
 
 ICE CLIMBERS
 
