@@ -1,6 +1,6 @@
 The Wii build is in this repo, and you can find the netplay build here:
 
-https://drive.google.com/file/d/1BFL8EfpRB3PGdT-33gZeiPeC1KHdpa-X/view?usp=sharing
+https://drive.google.com/file/d/1rPZ5nrCPt0lrEjHpjZ-VyPpmAYrFXA88/view?usp=sharing
 
 USE R AND Z ALTS AT YOUR OWN PERIL
 
