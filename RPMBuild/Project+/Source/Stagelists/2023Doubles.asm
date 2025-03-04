@@ -83,7 +83,7 @@ TABLE_3:
 0x34,	| # Bell_Tower
 0x35,	| # Norfair
 0x3E,	| # Venom
-0x0A,	| # Ceres_Space_Colony
+0x0A,	| # Crateria
 0x14,	| # Castle_Siege
 0x16,	| # Distant_Planet
 0x2F,	| # Hanenbow

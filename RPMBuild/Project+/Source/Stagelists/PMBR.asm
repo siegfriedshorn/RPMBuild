@@ -24,7 +24,7 @@ TABLE_1:
 0x14,	| # Castle_Siege
 0x1E,	| # Sky_Sanctuary
 0x21,	| # Golden_Temple
-0x0A,	| # Ceres_Space_Colony
+0x0A,	| # Crateria
 0x16,	| # Distant_Planet
 0x0C,	| # Yoshis_Island
 0x15,	| # Wario_Land

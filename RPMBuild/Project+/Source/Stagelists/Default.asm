@@ -19,27 +19,28 @@ Default [Moto]
 
 TABLE_1:
 	byte[11] |
-0x1C,	| # Green_Hill_Zone
-0x05,	| # Bowser_Castle
+0x20,	| # Yoshis_Story
+0x21,	| # Golden_Temple
 0x0B,	| # Frigate_Husk
 0x23,	| # Dream_Land
 0x08,	| # Temple_of_Time
 0x1A,	| # Smashville
 0x00,	| # Battlefield
 0x28,	| # Pokemon_Stadium_2
-0x03,	| # Luigis_Mansion
+0x0A,	| # Crateria
 0x2B,	| # Training
 0x2B	| # Training
 
 
 TABLE_2:
 	byte[26] |
+0x03,	| # Luigis_Mansion
+0x1C,	| # Green_Hill_Zone
+0x05,	| # Bowser_Castle
 0x24,	| # Peach_Castle
 0x04,	| # Metal_Cavern
 0x02,	| # Delfino_Secret
-0x0C,	| # Yoshis_Island
 0x15,	| # Wario_Land
-0x20,	| # Yoshis_Story
 0x06,	| # Kongo_Jungle
 0x07,	| # Rumble_Falls
 0x09,	| # Hyrule_Castle
@@ -57,13 +58,14 @@ TABLE_2:
 0x11,	| # Port_Town
 0x13,	| # Flat_Zone
 0x17,	| # Skyworld
-0x1B,	| # Shadow_Moses
 0x1D,	| # PictoChat
 0x2B	| # Training
 
 
 TABLE_3:
 	byte[27] |
+0x0C,	| # Yoshis_Island
+0x1B,	| # Shadow_Moses
 0x01,	| # Final_Destination
 0x31,	| # Dinosaur_Land
 0x2D,	| # Mario_Circuit
@@ -72,7 +74,6 @@ TABLE_3:
 0x3B,	| # Rainbow_Cruise
 0x32,	| # Minecart_Madness
 0x33,	| # Jungle_Japes
-0x21,	| # Golden_Temple
 0x36,	| # Cookie_Country
 0x18,	| # Fountain_of_Dreams
 0x2E,	| # Clock_Town
@@ -82,7 +83,6 @@ TABLE_3:
 0x34,	| # Bell_Tower
 0x35,	| # Norfair
 0x3E,	| # Venom
-0x0A,	| # Ceres_Space_Colony
 0x14,	| # Castle_Siege
 0x16,	| # Distant_Planet
 0x2F,	| # Hanenbow
