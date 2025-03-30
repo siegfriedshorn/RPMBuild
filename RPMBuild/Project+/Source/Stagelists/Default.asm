@@ -33,33 +33,32 @@ TABLE_1:
 
 
 TABLE_2:
-	byte[26] |
-0x24,	| # Peach_Castle
-0x04,	| # Metal_Cavern
+	byte[25] |
 0x02,	| # Delfino_Secret
-0x0C,	| # Yoshis_Island
-0x15,	| # Wario_Land
-0x20,	| # Yoshis_Story
+0x04,	| # Metal_Cavern
 0x06,	| # Kongo_Jungle
 0x07,	| # Rumble_Falls
 0x09,	| # Hyrule_Castle
-0x1F,	| # Temple
-0x22,	| # Onett
+0x0C,	| # Yoshis_Island
 0x0D,	| # Halberd
-0x27,	| # Planet_Zebes
+0x0E,	| # Lylat_Cruise
 0x0F,	| # Saffron_City
 0x10,	| # Spear_Pillar
-0x25,	| # Corneria
-0x0E,	| # Lylat_Cruise
-0x19,	| # Fourside
-0x12,	| # Infinite_Glacier
-0x26,	| # Big_Blue
 0x11,	| # Port_Town
+0x12,	| # Infinite_Glacier
 0x13,	| # Flat_Zone
+0x15,	| # Wario_Land
 0x17,	| # Skyworld
+0x19,	| # Fourside
 0x1B,	| # Shadow_Moses
 0x1D,	| # PictoChat
-0x2B	| # Training
+0x1F,	| # Temple
+0x20,	| # Yoshis_Story
+0x22,	| # Onett
+0x24,	| # Peach_Castle
+0x25,	| # Corneria
+0x26,	| # Big_Blue
+0x27	| # Planet_Zebes
 
 
 TABLE_3:
@@ -126,9 +125,9 @@ SkipStageTables:
 .RESET
 * 286AEDF4 00000000 # If 806AEDF4 is equal to 0
 byte 11 @ $806B929C # Page 1
-byte 26 @ $806B92A4 # Page 2
+byte 25 @ $806B92A4 # Page 2
 byte 27 @ $80496002 # Page 3
 byte 00 @ $80496003 # Page 4 (Unused)
 byte 00 @ $80496004 # Page 5 (Unused)
-byte 64 @ $800AF673 # Stage Count
+byte 63 @ $800AF673 # Stage Count
 * E0000000 80008000
