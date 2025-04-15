@@ -19,6 +19,7 @@ Default [Moto]
 
 TABLE_1:
 	byte[11] |
+<<<<<<< Updated upstream
 0x20,	| # Yoshis_Story
 0x21,	| # Golden_Temple
 0x0B,	| # Frigate_Husk
@@ -28,12 +29,24 @@ TABLE_1:
 0x00,	| # Battlefield
 0x28,	| # Pokemon_Stadium_2
 0x0A,	| # Crateria
+=======
+0x1C,	| # Green_Hill_Zone
+0x09,	| # Hyrule_Castle
+0x03,	| # Luigis_Mansion
+0x06,	| # Kongo_Jungle
+0x2C,	| # Draculas_Castle
+0x1A,	| # Smashville
+0x00,	| # Battlefield
+0x28,	| # Pokemon_Stadium_2
+0x40,	| # Bowsers_Keep
+>>>>>>> Stashed changes
 0x2B,	| # Training
 0x2B	| # Training
 
 
 TABLE_2:
 	byte[26] |
+<<<<<<< Updated upstream
 0x03,	| # Luigis_Mansion
 0x1C,	| # Green_Hill_Zone
 0x05,	| # Bowser_Castle
@@ -46,11 +59,22 @@ TABLE_2:
 0x09,	| # Hyrule_Castle
 0x1F,	| # Temple
 0x22,	| # Onett
+=======
+0x23,	| # Dream_Land
+0x05,	| # Bowser_Castle
+0x02,	| # Delfino_Secret
+0x0B,	| # Frigate_Husk
+0x08,	| # Temple_of_Time
+0x04,	| # Metal_Cavern
+0x07,	| # Rumble_Falls
+0x0C,	| # Yoshis_Island
+>>>>>>> Stashed changes
 0x0D,	| # Halberd
 0x27,	| # Planet_Zebes
 0x0F,	| # Saffron_City
 0x10,	| # Spear_Pillar
 0x25,	| # Corneria
+<<<<<<< Updated upstream
 0x0E,	| # Lylat_Cruise
 0x19,	| # Fourside
 0x12,	| # Infinite_Glacier
@@ -66,7 +90,15 @@ TABLE_3:
 	byte[27] |
 0x0C,	| # Yoshis_Island
 0x1B,	| # Shadow_Moses
+=======
+0x26	| # Big_Blue
+
+
+TABLE_3:
+	byte[26] |
+>>>>>>> Stashed changes
 0x01,	| # Final_Destination
+0x27,	| # Planet_Zebes
 0x31,	| # Dinosaur_Land
 0x2D,	| # Mario_Circuit
 0x38,	| # Mushroom_Kingdom
@@ -80,14 +112,12 @@ TABLE_3:
 0x3D,	| # Pirate_Ship
 0x39,	| # WarioWare
 0x3C,	| # Poke_Floats
-0x34,	| # Bell_Tower
 0x35,	| # Norfair
 0x3E,	| # Venom
 0x14,	| # Castle_Siege
 0x16,	| # Distant_Planet
 0x2F,	| # Hanenbow
 0x37,	| # Venus_Lighthouse
-0x2C,	| # Draculas_Castle
 0x1E,	| # Sky_Sanctuary
 0x30,	| # Dead_Line
 0x3A	| # Subspace
@@ -101,7 +131,7 @@ TABLE_5:
 
 TABLE_STAGES:
 # Table of icon<->stage slot associations
-half[64] |	# Stage Count + 2
+half[71] |	# Stage Count + 2
 | # OLD SLOTS
 0x0101, 0x0202, 0x0303, 0x0404, | # Battlefield, Final Destination, Delfino's Secret, Luigi's Mansion
 0x0505, 0x0606, 0x0707, 0x0808, | # Metal Cavern, Bowser's Castle, Kongo Jungle, Rumble Falls
@@ -117,9 +147,11 @@ half[64] |	# Stage Count + 2
 | # NEW SLOTS
 0x4023, 0x4124, 0x4225, 0x251F, | # Dracula's Castle, Mario Circuit, Clock Town, Hanenbow
 0x4427, 0x4528, 0x4629, 0x2B34, | # Dead Line, Dinosaur Land, Oil Drum Alley, Jungle Japes
-0x482B, 0x0B0B, 0x4A2D, 0x4B2E, | # Bell Tower, Norfair, Cookie Country, Venus Lighthouse
+0xFF64,	0x0B0B,	0x4A2D,	0x4B2E,	| NOTHING, Norfair, Cookie Country, Venus Lighthouse 
 0x4C2F, 0x4D30, 0x4E31, 0x4F3D, | # Mushroom Kingdom, WarioWare, Subspace, Rainbow Cruise
-0x503E, 0x513F, 0x5240, 0x5341	| # Poke Floats, Pirate Ship, Venom, Mushroom Kingdom II
+0x503E, 0x513F, 0x5240, 0x5341,	| # Poke Floats, Pirate Ship, Venom, Mushroom Kingdom II
+0x5421,	0x5421,	0x5421,	0x5421,	|    #Bowsers_Keep, Bowsers_Keep, Bowsers_Keep, Bowsers_Keep
+0x5421,	0x5421,	0x5421	|   #Bowsers_Keep, Bowsers_Keep, Bowsers_Keep
 
 
 SkipStageTables:
@@ -127,7 +159,11 @@ SkipStageTables:
 * 286AEDF4 00000000 # If 806AEDF4 is equal to 0
 byte 11 @ $806B929C # Page 1
 byte 26 @ $806B92A4 # Page 2
+<<<<<<< Updated upstream
 byte 27 @ $80496002 # Page 3
+=======
+byte 26 @ $80496002 # Page 3
+>>>>>>> Stashed changes
 byte 00 @ $80496003 # Page 4 (Unused)
 byte 00 @ $80496004 # Page 5 (Unused)
 byte 64 @ $800AF673 # Stage Count
