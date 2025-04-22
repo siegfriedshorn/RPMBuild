@@ -64,7 +64,7 @@ TABLE_2:
 
 
 TABLE_3:
-	byte[27] |
+	byte[28] |
 0x31,	| # Dinosaur_Land
 0x2D,	| # Mario_Circuit
 0x38,	| # Mushroom_Kingdom
@@ -80,9 +80,10 @@ TABLE_3:
 0x3D,	| # Pirate_Ship
 0x39,	| # WarioWare
 0x3C,	| # Poke_Floats
+0x34,	| # Bell_Tower
 0x35,	| # Norfair
 0x3E,	| # Venom
-0x0A,	| # Crateria
+0x0A,	| # Ceres_Space_Colony
 0x14,	| # Castle_Siege
 0x16,	| # Distant_Planet
 0x2F,	| # Hanenbow
@@ -128,8 +129,8 @@ SkipStageTables:
 * 286AEDF4 00000005 # If 806AEDF4 is equal to 5
 byte 11 @ $806B929C # Page 1
 byte 27 @ $806B92A4 # Page 2
-byte 27 @ $80496002 # Page 3
+byte 28 @ $80496002 # Page 3
 byte 00 @ $80496003 # Page 4 (Unused)
 byte 00 @ $80496004 # Page 5 (Unused)
-byte 65 @ $800AF673 # Stage Count
+byte 66 @ $800AF673 # Stage Count
 * E0000000 80008000
