@@ -2393,6 +2393,34 @@
       {
         "FileType": 24,
         "Path": "Source\\Project+\\StageTable.asm"
+      },
+      {
+        "FileType": 24,
+        "Path": "Source\\Stagelists\\2023Doubles.asm"
+      },
+      {
+        "FileType": 24,
+        "Path": "Source\\Stagelists\\2023Singles.asm"
+      },
+      {
+        "FileType": 24,
+        "Path": "Source\\Stagelists\\2024Doubles.asm"
+      },
+      {
+        "FileType": 24,
+        "Path": "Source\\Stagelists\\2024Singles.asm"
+      },
+      {
+        "FileType": 24,
+        "Path": "Source\\Stagelists\\Default.asm"
+      },
+      {
+        "FileType": 24,
+        "Path": "Source\\Stagelists\\Middle3.asm"
+      },
+      {
+        "FileType": 24,
+        "Path": "Source\\Stagelists\\PMBR.asm"
       }
     ],
     "RandomStageNamesLocations": [
