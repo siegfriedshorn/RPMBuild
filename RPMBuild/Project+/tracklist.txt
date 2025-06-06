@@ -41,7 +41,18 @@ Theme Rock - Gunz the Duel
 Dupes - Mochitsuki
 Take Me - Casiopea
 D.A.N.C.E. - Justice
-
+Blue Haze - Jazz Cartel
+REDACTED - Comb
+Jet Set Ratio - Een Glish
+Sublime - Klaus Veen
+Scrambled - Klaus Veen
+Swingin' Spathiphyllums - Mort Garson
+Rebirth - A Forest Mighty Black
+MUTATOR - Super Monkey Ball: Banana Mania
+Strasbourg/St. Denis - Roy Hargrove Quintet
+Like What - Tennyson
+Barracks - Yume Nikki
+King K. Rool drowns you to death - chry
 
 Green Hill Zone 
 ----------------
@@ -56,7 +67,7 @@ jiyugaoka rebirth - psychoangel
 Night in Tunisia - Jesus Molina
 Spunky - Street Fighter III: 3rd Strike
 Doku - Hakushi Hasegawa
-
+Scatman's World - Scatman John
 
 Bowser's Castle
 ----------------
@@ -72,8 +83,24 @@ Let There Be Light - Justice
 Vilanova Terrace - Devin Morrison
 GOLDENVENGEANCE - OMORI
 
-Frigate Husk
--------------
+Fountain of Dreams
+-------------------
+Momentum Boooooooooootssss - The Bulletproof Tiger
+Piano Black - The Seatbelts
+Painted Smile - Commix
+Hopes and Dreams - Undertale
+Gourmet Race - Melee
+Moonsider's 1st - Tekken 7
+Gourmet Race (Drumstep Remix) - dj-Jo
+You're In My System (Cruise Mix) - San Salva
+The Third Sanctuary - Deltarune
+Ryoushi no Umi no Lindwurm - Kuroneko Dungeon
+Coalescence - Chris Christodoulou
+Upward Movement (Dave Owns) - Homestuck
+shrink - Shohei Tsuchiya
+
+Frigate Husk/Phendrana
+----------------------
 PING PONG - IKU
 Night Walker - UNI
 Snow Sisters - UNI
@@ -88,6 +115,8 @@ melon seed - Chry
 Hold My Hand - goreshit
 Genesis - Justice
 decapitate your friends - mama's sleeping angels
+WHEEL - Super Monkey Ball: Banana Mania
+Sleigh Ride - Leroy Anderson
 
 Dreamland
 ----------
@@ -104,7 +133,7 @@ Precious Heart - Street Fighter EX3
 Strange Sunset - Street Fighter EX3
 Velocity - Sweet Trip
 Trees in the Depths of the Earth - Kirby Super Star
-
+Dream a Dream (Radio Mix) - Captain Jack
 
 Temple of Time
 ---------------
@@ -117,7 +146,7 @@ A Go Go - DJ Patlife
 waltz for lilly - 3nd
 NOT TiGHT - DOMi & JD BECK, Thundercat
 Umbral Ultimatum - Homestuck
-
+The Ecstasy of Gold - The Good, The Bad, and The Ugly
 
 Smashville
 -----------
@@ -132,7 +161,8 @@ Theme From Lupin III - Lupin III
 Jazzy NYC '99 (Arranged) - Street Fighter III: 3rd Strike
 River Stage - Marvel VS Capcom 2
 Track 14 - Worldwide Soccer '97
-
+Dizzy Sim - The Sims: Hot Date Expansion
+Smooth - Santana
 
 Battlefield
 ------------
@@ -146,7 +176,7 @@ Shanghai Alice of Meiji 17 - Touhou: Embodiment of Scarlet Devil
 Sharp Eyes - Street Fighter 3: 2nd Impact
 Beatdown (Dave) - Homestuck
 Queen of Rose - BlazBlue Central Fiction
-
+Love Is A Battlefield - Pat Benatar
 
 Pokemon Stadium
 ----------------
@@ -160,6 +190,10 @@ Foregone Destruction - Unreal Tournament
 Crowded Street - Street Fighter III: 2nd Impact
 Cyan Hardcore - Machine Girl
 +1 - CastleCarousel
+Security Hall - Sonic Adventure 2: Battle
+I Wanna Kno - 2 mello
+Rush - The Seatbelts
+Pokemon Rap: Gotta Catch 'Em All - The Pokemon Anime
 
 
 Luigi's Mansion
@@ -175,7 +209,8 @@ Holy Orders (Be Just or Be Dead) - Guilty Gear XXAC+R
 Fuchsia Ruler - Homestuck
 Megalo Strike Back - Toby Fox
 Phantom Pt 1+2 - Justice
-
+cold rock it - 2 mello
+Spooky Scary Skeletons - The Living Tombstone
 
 Dead Line
 ----------
