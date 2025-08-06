@@ -1,6 +1,6 @@
-The Wii build is in this repo, and you can find the netplay build here:
+The Wii build is in this repo, and you can find the Netplay build here:
 
-https://drive.google.com/file/d/1rPZ5nrCPt0lrEjHpjZ-VyPpmAYrFXA88/view?usp=sharing
+https://drive.google.com/file/d/1zPiFXraErIEVXlnDSbUHwybxOXPIO2kj/view?usp=drivesdk
 
 USE R AND Z ALTS AT YOUR OWN PERIL
 
