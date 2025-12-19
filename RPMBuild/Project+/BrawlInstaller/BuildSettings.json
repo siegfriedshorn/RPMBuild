@@ -2139,7 +2139,10 @@
     "CreditsThemesUseFighterIds": true,
     "VictoryThemesUseFighterIds": true,
     "GctDebugMode": false,
-    "GctTimeoutSeconds": 5
+    "GctTimeoutSeconds": 5,
+    "ColorSmashDebugMode": false,
+    "ColorSmashTimeoutSeconds": 60,
+    "TrophyCategoryOffset": 23
   },
   "FilePathSettings": {
     "FilePaths": [
@@ -2149,6 +2152,10 @@
       },
       {
         "FileType": 1,
+        "Path": ""
+      },
+      {
+        "FileType": 44,
         "Path": ""
       },
       {
@@ -2252,6 +2259,10 @@
         "Path": "pf\\toy\\fig\\ty_fig_ext_list.msbin"
       },
       {
+        "FileType": 45,
+        "Path": "pf\\toy\\fig\\ty_fig_category.msbin"
+      },
+      {
         "FileType": 34,
         "Path": "pf\\toy\\fig\\"
       },
@@ -2307,6 +2318,16 @@
         "Label": "",
         "FileType": 22,
         "Path": ""
+      },
+      {
+        "Label": "ExtraFighterData:",
+        "FileType": 43,
+        "Path": ""
+      },
+      {
+        "Label": "PHYSICS_DATA:",
+        "FileType": 46,
+        "Path": "Source\\ProjectM\\Modifier\\Physics.asm"
       }
     ],
     "FileNodePaths": [
